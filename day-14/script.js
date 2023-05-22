@@ -18,7 +18,7 @@ window.localStorage.setItem('isLoggedIn',true);
 console.log(window.localStorage);
 
 setTimeout
-
+   
 window.setTimeout(() => console.log('after two seconds'),4000);
 
 let sayHello = ()=> {
