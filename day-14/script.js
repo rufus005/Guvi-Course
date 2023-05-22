@@ -9,7 +9,7 @@ console.log(window.location.search);
 console.log(window.location);
 window.localStorage.setItem('username','rufus');
 
-console.log(window.localStorage.getItem('username'));
+console.log(window.localStorage.getItem('username'));  
 
 window.localStorage.removeItem('username')
 
