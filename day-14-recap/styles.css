@@ -5,8 +5,18 @@
 .card-body {
    margin-top: 20px;
    margin-bottom: 0px;
+   background-color: #133254;
+   color: white;
 }
 .row :last-child {
    margin-top: 15px;
 
+}
+
+.container{
+   background-color: #133254;
+}
+
+.row ::content{
+   background-color: #133254;
 }
